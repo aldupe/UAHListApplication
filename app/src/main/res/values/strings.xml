@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UAHListApplication</string>
+    <string name="item_to_buy">¿Que quieres comprar?</string>
+    <string name="title_activity_edit">Editar Elemento</string>
+    <string name="done">Hecho</string>
+    <string name="action_edit">Editar</string>
+    <string name="action_delete">Borrar</string>
+    <string name="title_text">LISTA DE LA COMPRA</string>
+</resources>
